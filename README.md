@@ -1,3 +1,7 @@
+Regita Maulia Gani
+H1D022021
+Shift C
+
 # Cara Kerja Login
 
 ## Persiapan Koneksi Database
